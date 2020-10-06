@@ -1,6 +1,6 @@
-#DSN Bootcamp Hackacthon Qualification
+# DSN Bootcamp Hackacthon Qualification
 
-##Kowope Mart
+## Kowope Mart
 
 Kowope Mart is a Nigerian-based retail company with a vision to provide quality goods, education and automobile services to its 
 customers at affordable price and reduce if not eradicate charges on card payments and increase customer satisfaction with credit 
